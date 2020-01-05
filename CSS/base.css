@@ -14,6 +14,7 @@
     overflow: hidden;
     opacity: .5;
     background: url(https://images.unsplash.com/photo-1550537687-c91072c4792d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=668&q=80) no-repeat center center fixed;   
+    -webkit-text-stroke: 1px black;
 }
 } 
 
@@ -36,5 +37,6 @@ body {
     text-align: right;
     overflow: hidden;
     vertical-align: baseline;
+    -webkit-text-stroke: 1px red;
 }
 }
